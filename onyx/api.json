@@ -1,0 +1,14 @@
+{
+	"id": null,
+	"result": [{
+		"url": "http://192.168.1.254/lineage-14.1-20170117-UNOFFICIAL-onyx.zip",
+		"timestamp": "1484665754",
+		"api_level": "25",
+		"md5sum": "18834048c5f141809e2606286d15e3d7",
+		"filename": "lineage-14.1-20170117-UNOFFICIAL-onyx.zip",
+		"channel": "NIGHTLY",
+		"changes": "",
+		"incremental": ""
+	}],
+	"error": null
+}
